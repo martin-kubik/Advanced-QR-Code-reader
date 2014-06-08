@@ -1,3 +1,5 @@
+<img align="right" src="https://raw.github.com/wiki/zxing/zxing/zxing-logo.png"/>
+
 Advanced-QR-Code-reader
 =======================
 
