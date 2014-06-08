@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.github.com/wiki/zxing/zxing/zxing-logo.png"/>
+<img align="right" src="https://lh6.ggpht.com/kO9hmdBhFFul8IuZUOpZJM96X3hbfbkH-61UK340p4riB4Ay54NuqagC10FB2uHP3dI=w300-rw"/>
 
 Advanced-QR-Code-reader
 =======================
