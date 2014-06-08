@@ -1,4 +1,4 @@
-<img align="right" src="https://lh6.ggpht.com/kO9hmdBhFFul8IuZUOpZJM96X3hbfbkH-61UK340p4riB4Ay54NuqagC10FB2uHP3dI=w300-rw"/>
+<img align="right" src="http://martinkubik.cz/DP/logo.png"/>
 
 Advanced-QR-Code-reader
 =======================
